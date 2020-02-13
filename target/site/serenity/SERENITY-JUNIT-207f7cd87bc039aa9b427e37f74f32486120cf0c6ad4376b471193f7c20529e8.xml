@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Validar multiples tag con ensure serenity" skipped="0" tests="1" time="1.51" timestamp="2020-02-07 09:20:46"><testcase name="Validar tags in response"><error message="Schema to use cannot be null" type="java.lang.IllegalArgumentException">Schema to use cannot be null</error><system-err>Schema to use cannot be null
+io.restassured.module.jsv.JsonSchemaValidator.validateSchemaIsNotNull(JsonSchemaValidator.java:270)
+io.restassured.module.jsv.JsonSchemaValidator.access$300(JsonSchemaValidator.java:75)
+io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema(JsonSchemaValidator.java:166)
+io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath(JsonSchemaValidator.java:117)
+co.com.nombreproyecto.steps.ValidationCommon.validateSchema(ValidationCommon.java:20)
+co.com.nombreproyecto.stepsdefinitions.ApiStepDefinition.seValidaDataDeNotionalYRoutedVolume(ApiStepDefinition.java:161)
+✽.Se valida data de notional y routedVolume(src/test/resources/features/example/pasivos/api/get/validarTagEnsure.feature:15)
+</system-err></testcase></testsuite>

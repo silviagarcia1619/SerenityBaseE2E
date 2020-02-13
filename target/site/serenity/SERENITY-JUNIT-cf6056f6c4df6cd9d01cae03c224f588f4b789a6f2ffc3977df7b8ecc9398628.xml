@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Busquedas desde pagina principal South west Trainrail" skipped="0" tests="1" time="4.31" timestamp="2020-02-07 09:21:01"><testcase name="Busqueda de trenes con usuario no registrado"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
+co.com.nombreproyecto.tasks.Start.performAs(Start.java:23)
+co.com.nombreproyecto.stepsdefinitions.ExampleStepDefinition.queElIngresaALaPaginaPrincipal(ExampleStepDefinition.java:27)
+cucumber.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:50)
+cucumber.runner.TestStep.executeStep(TestStep.java:63)
+cucumber.runner.TestStep.run(TestStep.java:49)
+cucumber.runner.PickleStepTestStep.run(PickleStepTestStep.java:43)
+cucumber.runner.TestCase.run(TestCase.java:44)
+cucumber.runner.Runner.runPickle(Runner.java:40)
+</system-err></testcase></testsuite>

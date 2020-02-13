@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Pruebas de uso ws con path y query param" skipped="0" tests="2" time="1.0" timestamp="2020-02-07 09:20:45"><testcase name="Uso de path param"/><testcase name="Uso de query param"/></testsuite>
