@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="web service post con data pojo" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-07T14:21:45" hostname="ATHADL28623.local" time="4.663">
-  <properties/>
-  <testcase name="Obtener list data reqrest" classname="web service post con data pojo" time="4.663"/>
-  <system-out><![CDATA[?[32m.?[0m{"name":"morpheus","job":"leader","id":"841","createdAt":"2020-02-07T14:19:31.458Z"}
-*******morpheus*****
-?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

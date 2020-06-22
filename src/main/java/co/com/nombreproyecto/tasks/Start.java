@@ -22,7 +22,6 @@ public class Start implements Performable {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
             Open.browserOn(applicationHomePage)
-//                Open.url("http://todomvc.com/examples/react/")
         );
     }
 }
