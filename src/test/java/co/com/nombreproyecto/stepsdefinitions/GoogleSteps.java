@@ -39,6 +39,8 @@ public class GoogleSteps {
 
     @Then("se valida que el primer titulo tenga la palabra musica")
     public void seValidaQueElPrimerTituloTengaLaPalabraMusica() {
-            Ensure.that(PaginaResultados.PRIMER_RESULTADO_MUSICA).text().contains("cocodrilo");
+        OnStage.theActorInTheSpotlight()
+                .attemptsTo(
+                        Ensure.that(PaginaResultados.PRIMER_RESULTADO_MUSICA).text().isEqualToIgnoringCase("Musica - YouTube"));
     }
 }

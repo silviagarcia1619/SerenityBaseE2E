@@ -1,5 +1,3 @@
-@Frontend:testExample
-@example
 
 Feature: Busquedas desde pagina principal google
 
@@ -7,7 +5,7 @@ Feature: Busquedas desde pagina principal google
   quiero encontrar resultados en la pagina de google
   para validar que los resultados coinciden con mi busqueda
 
-  @casa
+  @google
   Scenario:  Busqueda en google por palabra
     Given que el "usuario" esta en la pagina de google
     When  el usuario busca por la palabra "musica"
