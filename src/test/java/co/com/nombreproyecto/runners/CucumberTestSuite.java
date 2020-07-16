@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
     features = "src/test/resources/features/",
     glue = "co.com.nombreproyecto.stepsdefinitions",
 //    tags = "not @example",
-    tags = {"@google"},
+    tags = {"@github"},
     snippets = SnippetType.CAMELCASE
 
 )

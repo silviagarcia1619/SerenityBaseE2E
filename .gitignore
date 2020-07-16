@@ -1,2 +1,4 @@
 
 .idea/
+
+build/classes/java/test/co/com/nombreproyecto/runners/CucumberTestSuite.class
