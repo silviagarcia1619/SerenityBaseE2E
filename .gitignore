@@ -26,3 +26,7 @@ build/test-results/test/binary/
 target/site/serenity/
 
 *.xml
+
+build/resources/test/assets/
+
+build/resources/test/
