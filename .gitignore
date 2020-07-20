@@ -2,3 +2,27 @@
 .idea/
 
 build/classes/java/test/co/com/nombreproyecto/runners/CucumberTestSuite.class
+
+.gradle/5.2.1/executionHistory/
+
+.gradle/5.2.1/fileHashes/
+
+.gradle/5.2.1/javaCompile/
+
+.gradle/buildOutputCleanup/
+
+*.class
+
+build/classes/java/main/META-INF/
+
+*.html
+
+build/reports/tests/test/css/
+
+build/reports/tests/test/js/
+
+build/test-results/test/binary/
+
+target/site/serenity/
+
+*.xml
